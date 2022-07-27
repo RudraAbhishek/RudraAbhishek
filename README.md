@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhishek Prasad.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Full Stack Javascript Web Development at @ineuron.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Feel free to reach me out at abhiprasad1510@gmail.com
 
 <!---
